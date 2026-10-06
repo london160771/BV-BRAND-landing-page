@@ -1,0 +1,11 @@
+node_modules/
+.npm-cache/
+dist/
+*.local
+research/*.log
+*.tsbuildinfo
+.env*
+!.env.example
+research/
+REVIEW.md
+*-REVIEW.md
